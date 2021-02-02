@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bertikone:ruby_ore"
+  },
+  "result": "bertikone:ruby",
+  "experience": 2,
+  "cookingtime": 200,
+  "group": "ruby"
+}

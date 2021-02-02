@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bertikone:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "bertikone:ruby",
+    "count": 9
+  },
+  "group": "ruby"
+}

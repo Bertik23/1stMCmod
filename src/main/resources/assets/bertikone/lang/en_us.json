@@ -1,4 +1,6 @@
 {
+  "itemGroup.bertikone.general": "Bertik One General",
+  "itemGroup.bertikone.glowing": "Glowing blocks",
   "item.bertikone.ruby": "Ruby",
   "block.bertikone.ruby_block": "Ruby Block"
 }
